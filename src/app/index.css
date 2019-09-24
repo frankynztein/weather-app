@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Roboto', sans-serif;
+}
+@media (min-width: 320px) {
+  p {
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  span {
+    color: red;
+    display: block;
+  }
+
+  .Container__App {
+   display: flex;
+   flex-direction: column;
+  }
+
+  .Container__CityInfo {
+    display: flex;
+    flex-direction: column;
+    /* justify-items: flex-start; */
+    align-items: flex-start;
+    border: none;
+    padding: 20px;
+  }
+
+  .CityInfo__cityName {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 0;
+  }
+
+  .CityInfo__date {
+    margin-bottom: 0;
+  }
+
+  .Container__weatherInfo {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center;
+    justify-items: center; */
+    /* border: 1px solid red; */
+  }
+
+  .WeatherInfo__today-one {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+
+  .WeatherInfo__today-one__img {
+    width: 60%;
+  }
+
+  .WeatherInfo__today-two {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+  }
+
+  .Container__App__WeatherInfoTomorrow {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    /* align-content: space-around; */
+    padding: 20px;
+  }
+
+  .Container__WeatherInfoTomorrow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .WeatherInfo__tomorrow__img {
+    width: 50%;
+  }
+
+  
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: blue;
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    background-color: red;
+  }
+}

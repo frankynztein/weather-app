@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="49px" viewBox="0 0 45 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="clima-icons" transform="translate(-1155.000000, -895.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="OBJECTS" transform="translate(0.000000, 42.000000)">
+                <g id="Group" transform="translate(174.000000, 468.000000)">
+                    <g transform="translate(0.000000, 22.000000)" id="Path">
+                        <g transform="translate(983.000000, 365.000000)">
+                            <g transform="translate(12.000000, 0.000000)">
+                                <path d="M8.2,0.3 L8.2,44.5"></path>
+                                <g transform="translate(0.000000, 3.000000)">
+                                    <g>
+                                        <path d="M0.8,0.7 L8.2,8.3"></path>
+                                        <path d="M15.6,0.7 L8.2,8.3"></path>
+                                    </g>
+                                    <g transform="translate(0.000000, 30.000000)">
+                                        <path d="M15.6,8.1 L8.2,0.5"></path>
+                                        <path d="M0.8,8.1 L8.2,0.5"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(0.000000, 6.000000)">
+                                <path d="M1,5.3 L39.4,27.5"></path>
+                                <g>
+                                    <g>
+                                        <path d="M0.4,13.5 L10.6,10.9"></path>
+                                        <path d="M7.7,0.7 L10.6,10.9"></path>
+                                    </g>
+                                    <g transform="translate(29.000000, 19.000000)">
+                                        <path d="M11.1,0.3 L0.8,2.9"></path>
+                                        <path d="M3.7,13.1 L0.8,2.9"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(0.000000, 6.000000)">
+                                <path d="M1,27.5 L39.4,5.3"></path>
+                                <g>
+                                    <g transform="translate(0.000000, 19.000000)">
+                                        <path d="M7.7,13.1 L10.6,2.9"></path>
+                                        <path d="M0.4,0.3 L10.6,2.9"></path>
+                                    </g>
+                                    <g transform="translate(29.000000, 0.000000)">
+                                        <path d="M3.7,0.7 L0.8,10.9"></path>
+                                        <path d="M11.1,13.5 L0.8,10.9"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
