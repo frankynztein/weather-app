@@ -1,8 +1,6 @@
 import React from 'react';
 
-const WeatherInfoTomorrow = (props) => {
-  console.log(props)
-  
+const WeatherInfoTomorrow = (props) => {  
   const stateAbbr = props.weather_state_abbr;
   const IMG_URL = 'https://www.metaweather.com/static/img/weather/' + stateAbbr + '.svg';
 

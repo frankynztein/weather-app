@@ -19,12 +19,6 @@ const WeatherForm = (props) => (
         </button>
       </form>
     </div>
-    {/* {
-      props.error &&
-        <div className="alert alert-danger">
-          {props.error}
-        </div>
-    } */}
   </>
 );
 
