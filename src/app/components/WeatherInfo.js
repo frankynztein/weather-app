@@ -1,8 +1,20 @@
 import React from 'react';
+import LightCloud from '../assets/images/Cloud-Sun.svg';
 
 const WeatherInfo = (props) => {
   const stateAbbr = props.weather_state_abbr;
   const IMG_URL = 'https://www.metaweather.com/static/img/weather/' + stateAbbr + '.svg';
+  // const abbrArray = ['sn', 'sl', 'h', 't', 'hr', 'lr', 's', 'hc', 'lc', 'c'];
+
+  const selectImg = (abbr) => {
+    let imgWeather = {};
+    if (abbr === 'hc') {
+      return imgWeather = {LightCloud};
+    }
+    console.log('img weather', imgWeather)
+  }
+  console.log('select', selectImg(stateAbbr))
+  selectImg(stateAbbr)
 
 
   return (

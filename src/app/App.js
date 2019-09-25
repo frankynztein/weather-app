@@ -70,10 +70,10 @@ class App extends Component {
         {/* <WeatherInfo {...this.state.weatherInfo[1]} />
         <WeatherInfo {...this.state.weatherInfo[2]} /> */}
         <div className="Container__App__WeatherInfoTomorrow">
-          <WeatherInfoTomorrow {...this.state.weatherInfo[1]} date={this.state.date} />
-          <WeatherInfoTomorrow {...this.state.weatherInfo[2]} date={this.state.date} />
-          <WeatherInfoTomorrow {...this.state.weatherInfo[3]} date={this.state.date} />
-          <WeatherInfoTomorrow {...this.state.weatherInfo[4]} date={this.state.date} />
+          <WeatherInfoTomorrow {...this.state.weatherInfo[1]} />
+          <WeatherInfoTomorrow {...this.state.weatherInfo[2]} />
+          <WeatherInfoTomorrow {...this.state.weatherInfo[3]} />
+          <WeatherInfoTomorrow {...this.state.weatherInfo[4]} />
         </div>
         
       </div>

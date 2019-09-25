@@ -4,6 +4,12 @@ const CityInfo = (props) => {
   const date = new Date(props.date)
   const dateString = date.toDateString();
 
+  // const date = new Date(props.date)
+  // const dateDay = date.getDate();
+  // const arrayMonth = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  // const dateGetMonth = date.getMonth();
+  // const dateMonth = arrayMonth[dateGetMonth];
+
   return (
     <>
       {
